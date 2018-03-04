@@ -8,23 +8,23 @@
 .. image:: https://coveralls.io/repos/terriajs/ckanext-terria_view/badge.svg
   :target: https://coveralls.io/r/terriajs/ckanext-terria_view
 
-.. image:: https://pypip.in/download/ckanext-terria_view/badge.svg
+.. image:: https://img.shields.io/pypi/dm/ckanext-terria_view.svg
     :target: https://pypi.python.org/pypi//ckanext-terria_view/
     :alt: Downloads
 
-.. image:: https://pypip.in/version/ckanext-terria_view/badge.svg
+.. image:: https://img.shields.io/pypi/v/ckanext-terria_view.svg
     :target: https://pypi.python.org/pypi/ckanext-terria_view/
     :alt: Latest Version
 
-.. image:: https://pypip.in/py_versions/ckanext-terria_view/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/ckanext-terria_view.svg
     :target: https://pypi.python.org/pypi/ckanext-terria_view/
     :alt: Supported Python versions
 
-.. image:: https://pypip.in/status/ckanext-terria_view/badge.svg
+.. image:: https://img.shields.io/pypi/status/ckanext-terria_view.svg
     :target: https://pypi.python.org/pypi/ckanext-terria_view/
     :alt: Development Status
 
-.. image:: https://pypip.in/license/ckanext-terria_view/badge.svg
+.. image:: https://img.shields.io/pypi/l/ckanext-terria_view.svg
     :target: https://pypi.python.org/pypi/ckanext-terria_view/
     :alt: License
 
